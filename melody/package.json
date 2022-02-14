@@ -1,0 +1,8 @@
+{
+    "name": "melody",
+    "description": "Piano Genie (TensorFlow.js) running locally as a Node.js app.",
+    "version": "0.0.1",
+    "dependencies": {
+        "osc": "2.4.1"
+    }
+}
